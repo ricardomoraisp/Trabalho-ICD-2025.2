@@ -46,7 +46,8 @@ def coleta_dados_multiplex(driver: webdriver, texto_busca: str, ano: int) -> pd.
         else:
             codigo_ranking = "R05"
 
-        coleta_tabelas(driver, texto_busca, codigo_ranking, ano, "460")
+        # Mude a linha final para esta ordem:
+        return coleta_tabelas(driver, texto_busca, str(ano), codigo_ranking, "460")
 
     except Exception as e:
         print(f"\n ERRO: Tabela de {ano} não carregou a tempo ou não foi encontrada. Detalhes: {e}")
@@ -81,7 +82,6 @@ def coleta_tabelas(driver: webdriver, texto_busca: str, ano: str, codigo_rank: s
     """
         
     url = f"https://www.filmeb.com.br/database2/html/Seleciona_Modelo.php?st_indica_processo=PESQUISA&get_tipo_ranking={codigo_rank}&get_ano={ano}"
-        
         
     driver.get(url)
 
