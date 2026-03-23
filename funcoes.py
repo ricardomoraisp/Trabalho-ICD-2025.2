@@ -46,7 +46,6 @@ def coleta_dados_multiplex(driver: webdriver, texto_busca: str, ano: int) -> pd.
         else:
             codigo_ranking = "R05"
 
-        # Mude a linha final para esta ordem:
         return coleta_tabelas(driver, texto_busca, str(ano), codigo_ranking, "460")
 
     except Exception as e:
