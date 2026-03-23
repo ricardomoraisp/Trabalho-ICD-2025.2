@@ -7,10 +7,10 @@
 ---
 
 ## Sobre o Conjunto de Dados
-O conjunto de dados mapeia a evolução histórica do mercado cinematográfico brasileiro. Ele abrange dados históricos, incluindo o total de salas disponíveis por ano e a relação de público médio por sala desde a década de 1970 até os anos recentes. Esses dados permitem analisar o ritmo de expansão do setor, o impacto da transição para os complexos multiplex e as flutuações de demanda do público ao longo das décadas.
+O conjunto de dados mapeia a evolução histórica do mercado cinematográfico brasileiro. Ele abrange dados históricos, incluindo o total de salas disponíveis por ano e a relação de público médio por sala desde a década de 1970 até os anos recentes. Esses dados permitem analisar o ritmo de expansão do setor, o impacto da transição para os complexos multiplex e as flutuações de demanda do público ao longo das décadas. Além disso utilizamos o banco de dados da cinemateca e da ancine para coletar filmes feitos dos anos 1913 até 2024 e categorizar quantos filmes foram feitos ano a ano.
 
 ## Processo de Coleta de Dados
-A coleta de dados foi realizada de forma automatizada através da técnica de *web scraping*, extraindo informações do portal especializado *Filme B*. Utilizando a linguagem Python, scripts foram desenvolvidos com o auxílio das bibliotecas **Selenium** (para automação e navegação web) e **Pandas** (para estruturação em DataFrames). 
+A coleta de dados foi realizada de forma automatizada através da técnica de *web scraping*, extraindo informações do portal especializado *Filme B* e o portal da base de filmes da cinemateca brasileira. Utilizando a linguagem Python, scripts foram desenvolvidos com o auxílio das bibliotecas **Selenium** (para automação e navegação web) e **Pandas** (para estruturação em DataFrames). 
 
 O algoritmo localiza as tabelas HTML corretas usando filtros de texto e tamanho, extrai o código bruto e o converte para um formato tabular estruturado, salvando os resultados para análise.
 
