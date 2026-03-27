@@ -1,0 +1,372 @@
+1,2,4
+município,UF,salas
+Sao Paulo,SP,278
+Rio de Janeiro,RJ,164
+Brasilia,DF,93
+Belo Horizonte,MG,72
+Curitiba,PR,71
+Porto Alegre,RS,68
+Salvador,BA,55
+Campinas,SP,47
+Goiania,GO,42
+Fortaleza,CE,35
+Recife,PE,35
+Manaus,AM,30
+Santos,SP,22
+Guarulhos,SP,21
+Sao Jose dos Campos,SP,20
+Ribeirao Preto,SP,19
+Vitoria,ES,17
+Sorocaba,SP,17
+Sao Jose do Rio Preto,SP,16
+Florianopolis,SC,16
+Cuiaba,MT,16
+Santo Andre,SP,15
+Juiz de Fora,MG,14
+Sao Bernardo do Campo,SP,14
+Joao Pessoa,PB,14
+Natal,RN,14
+Aracaju,SE,14
+Maringa,PR,13
+Duque de Caxias,RJ,12
+Campo Grande,MS,12
+Niteroi,RJ,12
+Uberlandia,MG,12
+Belem,PA,12
+Jaboatao dos Guararapes,PE,12
+Osasco,SP,11
+Contagem,MG,10
+Sao Luis,MA,10
+Bauru,SP,9
+Praia Grande,SP,9
+Barueri,SP,9
+Pocos de Caldas,MG,8
+Teresina,PI,8
+Foz do Iguacu,PR,8
+Londrina,PR,8
+Marilia,SP,8
+Sao Goncalo,RJ,8
+Porto Velho,RO,7
+Anapolis,GO,7
+Montes Claros,MG,7
+Uberaba,MG,7
+Caxias do Sul,RS,7
+Balneario Camboriu,SC,7
+Araraquara,SP,7
+Presidente Prudente,SP,7
+Vila Velha,ES,7
+Canoas,RS,7
+Jundiai,SP,7
+Petropolis,RJ,6
+Volta Redonda,RJ,6
+Cascavel,PR,6
+Santa Maria,RS,6
+Guaruja,SP,6
+Aparecida de Goiania,GO,6
+Campos dos Goitacazes,RJ,6
+Sao Joao De Meriti,RJ,6
+Blumenau,SC,6
+Sao Vicente,SP,6
+Maceio,AL,5
+Sao Carlos,SP,5
+Itumbiara,GO,5
+Bento Goncalves,RS,5
+Joinville,SC,5
+Indaiatuba,SP,5
+Divinopolis,MG,5
+São José dos Pinhais,PR,5
+Macae,RJ,5
+Boa Vista,RR,5
+Sao Leopoldo,RS,5
+Novo Hamburgo **,RS,5
+São José,SC,5
+Jacarei,SP,5
+Maua,SP,5
+Piracicaba,SP,5
+Rio Claro,SP,5
+Suzano,SP,5
+Taboao da Serra,SP,5
+Macapa,AP,4
+Passo Fundo,RS,4
+Criciuma,SC,4
+Feira de Santana,BA,4
+Serra,ES,4
+Campina Grande,PB,4
+Ponta Grossa,PR,4
+Santa Cruz do Sul,RS,4
+Tubarao,SC,4
+Guaratingueta,SP,4
+Limeira,SP,4
+Mogi das Cruzes,SP,4
+Santa Barbara do Oeste,SP,4
+Taubate,SP,4
+Cachoeiro de Itapemirim,ES,3
+Angra dos Reis,RJ,3
+Assis,SP,3
+Jau,SP,3
+Palmas do Tocantins,TO,3
+Vitoria da Conquista,BA,3
+Guarapari,ES,3
+Linhares,ES,3
+Catalao,GO,3
+Rio Verde,GO,3
+Betim,MG,3
+Ipatinga,MG,3
+Patos de Minas,MG,3
+Dourados,MS,3
+Rondonopolis,MT,3
+Castanhal,PA,3
+Tucurui,PA,3
+Nilopolis,RJ,3
+Nova Friburgo,RJ,3
+Nova Iguacu,RJ,3
+Resende,RJ,3
+Pelotas,RS,3
+Brusque,SC,3
+Jaragua do Sul,SC,3
+Aracatuba,SP,3
+Franca,SP,3
+Santo Antonio de Jesus,BA,2
+Teixeira de Freitas,BA,2
+Juazeiro do Norte,CE,2
+Maracanau,CE,2
+Sobral,CE,2
+Colatina,ES,2
+Caldas Novas,GO,2
+Valparaiso,GO,2
+Barbacena,MG,2
+Governador Valadares,MG,2
+Itabira,MG,2
+Lavras,MG,2
+Pouso Alegre,MG,2
+Sete Lagoas,MG,2
+Tres Coracoes,MG,2
+Varginha,MG,2
+Caceres,MT,2
+Sinop,MT,2
+Tangara da Serra,MT,2
+Patos,PB,2
+Garanhuns,PE,2
+Petrolina,PE,2
+Parnaiba,PI,2
+Apucarana,PR,2
+Campo Largo,PR,2
+Guarapuava,PR,2
+Paranagua,PR,2
+Toledo,PR,2
+Araruama,RJ,2
+Barra Mansa,RJ,2
+Cabo Frio,RJ,2
+Rio das Ostras,RJ,2
+Teresopolis,RJ,2
+Cachoeirinha,RS,2
+Campo Bom,RS,2
+Capao da Canoa,RS,2
+Lajeado,RS,2
+Nova Petropolis,RS,2
+Rio Grande,RS,2
+Santo Angelo,RS,2
+Chapeco,SC,2
+Itajai,SC,2
+Itapema,SC,2
+Lages,SC,2
+Rio do Sul,SC,2
+Sao Francisco do Sul,SC,2
+Videira,SC,2
+Amparo,SP,2
+Andradina,SP,2
+Embu,SP,2
+Fernandopolis,SP,2
+Itanhaem,SP,2
+Itapetininga,SP,2
+Itapevi,SP,2
+Itatiba,SP,2
+Lencois Paulista,SP,2
+Matao,SP,2
+Ourinhos,SP,2
+Peruibe,SP,2
+Sao Roque,SP,2
+Sao Sebastiao,SP,2
+Sertãozinho,SP,2
+Sumare,SP,2
+Tatui,SP,2
+Cruzeiro do Sul,AC,1
+Itacoatiara,AM,1
+Alagoinhas,BA,1
+Barreiras,BA,1
+Ibicarai,BA,1
+Itamaraju,BA,1
+Jequié,BA,1
+Porto Seguro,BA,1
+Simões Filho,BA,1
+Valença,BA,1
+Lauro de Freitas **,BA,1
+Aracruz,ES,1
+Castelo,ES,1
+Marataizes,ES,1
+Sao Mateus,ES,1
+Formosa,GO,1
+Itaberai,GO,1
+Luziânia,GO,1
+Morrinhos,GO,1
+Imperatriz,MA,1
+Além Paraiba,MG,1
+Alfenas,MG,1
+Araxa,MG,1
+Arcos,MG,1
+Bicas,MG,1
+Boa Esperança,MG,1
+Cambui,MG,1
+Campo Belo,MG,1
+Cataguases,MG,1
+Caxambu,MG,1
+Conselheiro Lafaiete,MG,1
+Formiga,MG,1
+Guaxupe,MG,1
+Ituiutaba,MG,1
+Lagoa Santa,MG,1
+Machado,MG,1
+Manhuacu,MG,1
+Muriae,MG,1
+Nova Serrana,MG,1
+Oliveira,MG,1
+Ouro Preto,MG,1
+Para de Minas,MG,1
+Paracatu,MG,1
+Passos,MG,1
+Santa Barbara,MG,1
+Sao Joao Del Rey,MG,1
+Sao Lourenco,MG,1
+Sao Sebastiao do Paraiso,MG,1
+Vicosa,MG,1
+Navirai,MS,1
+Tres Lagoas,MS,1
+Primavera do Leste,MT,1
+Sorriso **,MT,1
+Altamira,PA,1
+Afogados da Ingazeira,PE,1
+Sao Lourenco da Mata,PE,1
+Arapongas,PR,1
+Campo Mourao,PR,1
+Cianorte,PR,1
+Francisco Beltrao,PR,1
+Ibipora,PR,1
+Irati,PR,1
+Ivaipora,PR,1
+Jacarezinho,PR,1
+Paranavai,PR,1
+Pato Branco,PR,1
+Rondon,PR,1
+Umuarama,PR,1
+Uniao da Vitoria,PR,1
+Armacao dos Buzios,RJ,1
+Bom Jesus de Itabapoana,RJ,1
+Itaperuna,RJ,1
+Tres Rios,RJ,1
+Valenca,RJ,1
+Vassouras,RJ,1
+Ariquemes,RO,1
+Cacoal,RO,1
+Rolim de Moura,RO,1
+Vilhena,RO,1
+Bage,RS,1
+Cachoeira do Sul,RS,1
+Canela,RS,1
+Carazinho,RS,1
+Carlos Barbosa,RS,1
+Erechin,RS,1
+Gramado,RS,1
+Montenegro,RS,1
+Santa Rosa,RS,1
+Santana do Livramento,RS,1
+Sao Luiz Gonzaga,RS,1
+Tres Coroas,RS,1
+Tres Passos,RS,1
+Uruguaiana,RS,1
+Venâncio Aires,RS,1
+Viamao,RS,1
+Ararangua,SC,1
+Canoinhas,SC,1
+Concordia,SC,1
+Curitibanos,SC,1
+Mafra,SC,1
+Adamantina,SP,1
+Altinopolis,SP,1
+Atibaia,SP,1
+Avare,SP,1
+Bariri,SP,1
+Batatais,SP,1
+Bebedouro,SP,1
+Birigui,SP,1
+Bocaina,SP,1
+Boituva,SP,1
+Botucatu,SP,1
+Brotas,SP,1
+Capivari,SP,1
+Caraguatatuba,SP,1
+Casa Branca,SP,1
+Cesario Lange,SP,1
+Cruzeiro,SP,1
+Descalvado,SP,1
+Guaira,SP,1
+Ibiuna,SP,1
+Igarapava,SP,1
+Iguape,SP,1
+Ilha Solteira,SP,1
+Itapeva,SP,1
+Itapira,SP,1
+Itápolis,SP,1
+Ituverava,SP,1
+Jaboticabal,SP,1
+Jaguariuna,SP,1
+Junqueirópolis,SP,1
+Leme,SP,1
+Lins,SP,1
+Miguelopolis,SP,1
+Mococa,SP,1
+Mogi Guacu,SP,1
+Monte Alto,SP,1
+Olimpia,SP,1
+Osvaldo Cruz,SP,1
+Paraguaçu Paulista,SP,1
+Pederneiras,SP,1
+Pedreira,SP,1
+Penapolis,SP,1
+Piraju,SP,1
+Pirajui,SP,1
+Pompéia,SP,1
+Porto Feliz,SP,1
+Porto Ferreira,SP,1
+Presidente Epitacio,SP,1
+Presidente Venceslau,SP,1
+Registro,SP,1
+Salto,SP,1
+Santa Cruz das Palmeiras,SP,1
+Santa Cruz do Rio Pardo,SP,1
+Santa Fe do Sul,SP,1
+Santa Rita do Passa Quatro,SP,1
+Sao Joao da Boa Vista,SP,1
+São José da Bela Vista,SP,1
+Sao Jose do Rio Pardo,SP,1
+Sao Manuel,SP,1
+Sao Pedro,SP,1
+Serra Negra,SP,1
+Socorro,SP,1
+Tupa,SP,1
+Ubatuba,SP,1
+Vargem Grande do Sul,SP,1
+Votuporanga,SP,1
+Taquaritinga **,SP,1
+Americana **,SP,1
+Itu,SP,3
+Mogi Mirim,SP,3
+Valinhos,SP,3
+Ji-Parana,RO,2
+Catanduva,SP,2
+Rio Branco,AC,2
+Santana,AP,2
+Ilheus,BA,2
+Itabuna,BA,2
+Fonte: Banco de dados Filme B - Pesquisa: Filme B,Fonte: Banco de dados Filme B - Pesquisa: Filme B,Fonte: Banco de dados Filme B - Pesquisa: Filme B
+"Observações: * Segundo o IBGE, Brasília é o único município do DF, e inclui a população das cidades-satélite de Taguatinga, Gama e Sobradinho. Portanto incluímos os números/cinemas dessas localidades nos totais acima.  ** o cinema desses municípios tiveram suas atividades encerradas em 2009. ** o cinema desses municípios tiveram suas atividades encerradas em 2009.","Observações: * Segundo o IBGE, Brasília é o único município do DF, e inclui a população das cidades-satélite de Taguatinga, Gama e Sobradinho. Portanto incluímos os números/cinemas dessas localidades nos totais acima.  ** o cinema desses municípios tiveram suas atividades encerradas em 2009. ** o cinema desses municípios tiveram suas atividades encerradas em 2009.","Observações: * Segundo o IBGE, Brasília é o único município do DF, e inclui a população das cidades-satélite de Taguatinga, Gama e Sobradinho. Portanto incluímos os números/cinemas dessas localidades nos totais acima.  ** o cinema desses municípios tiveram suas atividades encerradas em 2009. ** o cinema desses municípios tiveram suas atividades encerradas em 2009."
+,Topo da página,
