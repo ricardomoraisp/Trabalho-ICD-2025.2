@@ -36,6 +36,14 @@ Dados sobre a distribuição de salas de cinemas nos munícipios brasileiros, no
 
 Investimentos totais feitos no audiovisual brasileiro entre 1995 até 2010.
 
+### 2.8 coleta_media_habitantes
+
+Dados referentes às métricas demográficas de média de habitantes por complexo e por sala de cinema no Brasil, permitindo avaliar a densidade e o alcance geográfico do circuito exibidor ao longo dos anos.
+
+### 2.9 coleta_ingressos_per_capita
+
+Conjunto de dados focado na extração do indicador de ingressos per capita, permitindo analisar o consumo de cinema proporcional à população brasileira.
+
 ---
 
 ## 3 Processo de Coleta de Dados e descrição das colunas
@@ -164,6 +172,38 @@ A coleta de dados foi realizada de forma automatizada através da técnica de *w
 - **Nome da coluna:** `salas`  
   - **Descrição da coluna:** Número total de salas de cinema contabilizadas naquele município no ano referente.  
   - **Exemplo:** `350`
+
+---
+
+### coleta_media_habitantes
+
+A coleta de dados foi realizada de forma automatizada através da técnica de *web scraping* no portal Filme B. O script mapeia dinamicamente o código do ranking de acordo com o ano pesquisado para estruturar as estatísticas demográficas de habitantes por sala de exibição.
+
+#### Dicionário de Dados (Descrição das colunas)
+
+- **Nome da coluna:** `Ano`  
+  - **Descrição da coluna:** Ano de referência do registro histórico dos dados.  
+  - **Exemplo:** `2018`
+
+- **Nome da coluna:** `Habitantes por Sala`  
+  - **Descrição da coluna:** Média calculada da quantidade de pessoas por sala de cinema operante no período analisado.  
+  - **Exemplo:** `63500`
+
+---
+
+### coleta_ingressos_per_capita
+
+Dados extraídos do portal Filme B via *web scraping*. O algoritmo varre a base histórica de rankings anuais para compilar a proporção de bilhetes vendidos por pessoa, ajustando os seletores da página conforme a estrutura de cada ano.
+
+#### Dicionário de Dados (Descrição das colunas)
+
+- **Nome da coluna:** `Ano`  
+  - **Descrição da coluna:** Ano de referência do registro histórico dos dados.  
+  - **Exemplo:** `2019`
+
+- **Nome da coluna:** `Ingressos per capita`  
+  - **Descrição da coluna:** Média de ingressos de cinema vendidos por habitante no ano.  
+  - **Exemplo:** `0.85`
 
 ---
 
