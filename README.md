@@ -91,19 +91,27 @@ Abaixo estão descritas as principais colunas extraídas durante as rotinas de c
 
 ---
 
-### Tabelas FSA
+### despesa_por_orgao
 
-Planilha pronta vinda do site da ANCINE.
+Dados coletados do site do Portal da Transparência
 
 #### Dicionário de Dados (Descrição das colunas)
 
-- **Nome da coluna:** `Ano`  
+- **Nome da coluna:** `mes_ano`  
   - **Descrição da coluna:** Ano de referência do registro histórico dos dados.  
   - **Exemplo:** `2020`
-
-- **Nome da coluna:** `Execução financeira`  
-  - **Descrição da coluna:** Registros dos valores efetivamente pagos pelo FSA em projetos e programas ao longo do tempo.  
-  - **Exemplo:** `266,000,000`
+    
+- **Nome da coluna:** `orgao_superior`  
+  - **Descrição da coluna:** Orgão superior responsável pela entidade.  
+  - **Exemplo:** `32000 - Ministério de Minas e Energia`
+  
+- **Nome da coluna:** `entidade_vinvulada`  
+  - **Descrição da coluna:** Entidade em que o valor foi destinado.  
+  - **Exemplo:** `20203 - Agência Nacional do Cinema`
+    
+- **Nome da coluna:** `Valor Pago`  
+  - **Descrição da coluna:** .  
+  - **Exemplo:** `2040614.01`
 
 ---
 
