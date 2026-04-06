@@ -5,6 +5,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from io import StringIO
 import pandas as pd
 from selenium.webdriver.common.by import By
+import time
 
 
 def coleta_tabelas(driver: webdriver, texto_busca: str, ano: str, codigo_rank: str, tamanho: str) -> pd.DataFrame:
@@ -38,6 +39,7 @@ def coleta_tabelas(driver: webdriver, texto_busca: str, ano: str, codigo_rank: s
         
     driver.get(url)
 
+    time.sleep(3)
     xpath = f"//table[@width='{tamanho}' and contains(., '{texto_busca}')]"
     
     # Espera máxima de até 10 segundos para o carregamento da página
@@ -237,4 +239,4 @@ def coleta_ingressos_per_capita(driver: webdriver, texto_busca: str, ano: int) -
     except Exception as e:
         print(f"\n ERRO: Tabela de {ano} não carregou a tempo ou não foi encontrada. Detalhes: {e}")
         return None
-    
+
