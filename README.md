@@ -16,9 +16,9 @@ O conjunto de dados mapeia a evolução histórica do mercado cinematográfico b
 
 csvs contendo as bilheterias diárias das sessões de exibição do período de 2014 a 2025( bem como informações sobre o país de origem das obras  ) baseando-se, respectivamente, nos dados advindos das distribuidoras e das exibidoras dos filmes.
 
-### 2.3 31072025_TabelasFSA
+### 2.3 despesa_por_orgao
 
-informações sobre o fundo setorial audiovisual(FSA), as planilhas contêm informações de 2007-2025, contendo,  arrecadação, execução orçamentária, empenhos, desembolsos, investimentos, financiamentos, apoios, despesas operacionais e saldo bancário do programa.
+Informações de atribuições de valores aos orgãos do governo.
 
 ### 2.4 pmi_ancine
 
@@ -43,6 +43,10 @@ Dados referentes às métricas demográficas de média de habitantes por complex
 ### 2.9 coleta_ingressos_per_capita
 
 Conjunto de dados focado na extração do indicador de ingressos per capita, permitindo analisar o consumo de cinema proporcional à população brasileira.
+
+### 2.10 31072025_TabelasFSA
+
+Conjunto de dados sobre o Fundo Setorial Audiovisual.
 
 ---
 
@@ -212,6 +216,26 @@ Dados extraídos do portal Filme B via *web scraping*. O algoritmo varre a base 
 - **Nome da coluna:** `Ingressos per capita`  
   - **Descrição da coluna:** Média de ingressos de cinema vendidos por habitante no ano.  
   - **Exemplo:** `0.85`
+
+---
+
+### 31072025_TabelasFSA.ods
+
+Dados extraidos de dados abertos do site da Agencia Nacional de Cinema
+
+#### Dicionário de Dados (Descrição das colunas)
+
+- **Nome da coluna:** `Ano`  
+  - **Descrição da coluna:** Ano de referência do registro histórico dos dados.  
+  - **Exemplo:** `2019`
+
+- **Nome da coluna:** `Empenho do Orçamento do FSA`  
+  - **Descrição da coluna:** Valor empenhado ao FSA aquele ano.  
+  - **Exemplo:** `38549335`
+
+- **Nome da coluna:** `Execução Financeira (recursos disponibilizados ao FSA)`  
+  - **Descrição da coluna:** Valor ultilizado pelo FSA aquele ano.  
+  - **Exemplo:** `38549335`
 
 ---
 
